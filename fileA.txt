@@ -1,3 +1,3 @@
 line 1
-line 2
+line 2 with comment from hub
 line 3
